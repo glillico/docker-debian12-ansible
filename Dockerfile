@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM debian:12
 LABEL maintainer="Graham Lillico"
 
 # Update packages to the latest version
